@@ -1,4 +1,4 @@
-### Hi there! i'm Francisco Monteiro.
+### HI there! i'm Francisco Monteiro.
 
 - 🔭 I’m currently working with Front-end
 - 🌱 I’m currently learning HTML, CSS and JavaScript
