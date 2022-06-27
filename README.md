@@ -1,15 +1,15 @@
-### HI there! i'm Francisco Monteiro.
-
-- 🔭 I’m currently working with Front-end
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🤔 I’m looking for help with Flexbox CSS
-- 💬 Ask me about anything 🙃
-- 📫 How to reach me: franciscorubenilto@gmail.com
+### Olá! Sou o  <a href="https://www.linkedin.com/in/francisco-monteiro-14b76b9b/"><i>Francisco Monteiro.</i></a>
+Faço doutorado em Economia no PIMES/UFPE e estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>
+- 🔭 Atualmente estou estudando e desenvolvendo alguns projetos em Back-end (nodeJS).
+- 🌱 Já fiz projetos em Front-end utilizando React (tanto com Redux quanto com context API).
+- 💬 Pode acessar meus projetos via meus diretórios ou até mesmo nos meus PullRequests (fique a vontade).
+- 📫 Email para contato: franciscorubenilto@gmail.com
 
 <div align="center">
   <a href="https://github.com/Pito900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pito900&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pito900&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pito900&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pito900&theme=vision-friendly-dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
     
   <div style="display: inline_block"><br>
