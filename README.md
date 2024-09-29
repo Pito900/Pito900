@@ -1,9 +1,11 @@
 ### Olá! Sou o  <a href="https://www.linkedin.com/in/francisco-monteiro-14b76b9b/"><i>Francisco Monteiro.</i></a>
-Faço doutorado em Economia no PIMES/UFPE e estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>
-- 🔭 Atualmente estou estudando e desenvolvendo alguns projetos em Back-end (nodeJS).
-- 🌱 Já fiz projetos em Front-end utilizando React (tanto com Redux quanto com context API).
-- 💬 Pode acessar meus projetos via meus diretórios ou até mesmo nos meus PullRequests (fique a vontade).
-- 📫 Email para contato: franciscorubenilto@gmail.com
+👋 Hi there! I'm <a href="https://www.linkedin.com/in/francisco-monteiro-14b76b9b/"><i>Francisco Monteiro.</i></a>, a passionate software developer with a background in economics and over 2 years of experience in IT. I'm currently finalizing my PhD in Economics at UFPE, where I transitioned into the world of programming and tech development.
+
+💻 I'm a Full-Stack Web Developer, having completed the intensive Full-Stack course at Trybe. My expertise includes JavaScript, React, Node.js, Python, and C#. Additionally, I have experience working with messaging systems such as Kafka and RabbitMQ.
+
+🌍 Currently based in Vancouver, BC, I'm actively working in the tech industry while pursuing freelance opportunities. I enjoy tackling complex problems, especially those that combine my skills in economics, programming, and system integration.
+
+🚀 Let's build something amazing together!
 
 <div align="center">
   <a href="https://github.com/Pito900">
